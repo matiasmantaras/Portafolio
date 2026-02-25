@@ -438,64 +438,64 @@ const projectGalleries = {
         title: 'Mobile App Multiplataforma',
         subtitle: 'React Native • Android & iOS',
         images: [
-            '../public/homescreen.png',
-            '../public/homescreen2.png',
-            '../public/tv.png',
-            '../public/radio.png',
-            '../public/radio2.png',
-            '../public/videos.png',
-            '../public/videos2.png',
-            '../public/bible.png',
-            '../public/bible2.png',
-            '../public/bible3.png',
-            '../public/bible4.png',
-            '../public/bible5.png',
-            '../public/redes.png',
-            '../public/donaciones.png'
+            'images/homescreen.png',
+            'images/homescreen2.png',
+            'images/tv.png',
+            'images/radio.png',
+            'images/radio2.png',
+            'images/videos.png',
+            'images/videos2.png',
+            'images/bible.png',
+            'images/bible2.png',
+            'images/bible3.png',
+            'images/bible4.png',
+            'images/bible5.png',
+            'images/redes.png',
+            'images/donaciones.png'
         ]
     },
     erp: {
         title: 'Sistema ERP Empresarial',
         subtitle: 'Python • PostgreSQL • Desktop',
         images: [
-            '../public/inicioerp.png',
-            '../public/erp.png',
-            '../public/pointofsale.png',
-            '../public/ubicacion.png',
-            '../public/role.png',
-            '../public/sucursales.png',
-            '../public/categorias.png',
-            '../public/unidades.png',
-            '../public/facturas.png',
-            '../public/metododepago.png',
-            '../public/movimientos.png',
-            '../public/reportes.png'
+            'images/inicioerp.png',
+            'images/erp.png',
+            'images/pointofsale.png',
+            'images/ubicacion.png',
+            'images/role.png',
+            'images/sucursales.png',
+            'images/categorias.png',
+            'images/unidades.png',
+            'images/facturas.png',
+            'images/metododepago.png',
+            'images/movimientos.png',
+            'images/reportes.png'
         ]
     },
     vibratto: {
         title: 'Vibratto - Plataforma Web',
         subtitle: 'Next.js • Node.js • MongoDB',
         images: [
-            '../public/vibrato.png',
-            '../public/titulos.png',
-            '../public/servicios.png',
-            '../public/instrumentos.png',
-            '../public/comentarios.png',
-            '../public/galeria.png',
-            '../public/precios.png',
-            '../public/contacto.png'
+            'images/vibrato.png',
+            'images/titulos.png',
+            'images/servicios.png',
+            'images/instrumentos.png',
+            'images/comentarios.png',
+            'images/galeria.png',
+            'images/precios.png',
+            'images/contacto.png'
         ]
     },
     tickets: {
         title: 'Sistema de Entrada para Eventos',
         subtitle: 'React • Express • PostgreSQL • Mercado Pago',
         images: [
-            '../public/hometicket.png',
-            '../public/homeevento.png',
-            '../public/entradas.png',
-            '../public/entradas2.png',
-            '../public/qr.png',
-            '../public/mp.png'
+            'images/hometicket.png',
+            'images/homeevento.png',
+            'images/entradas.png',
+            'images/entradas2.png',
+            'images/qr.png',
+            'images/mp.png'
         ]
     }
 };
@@ -619,3 +619,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }, 100);
 });
+
