@@ -381,6 +381,18 @@ button:hover ~ .cursor-dot {
     }
 }
 
+/* Button with icon */
+.btn-secondary svg,
+.btn-primary svg {
+    display: inline-block;
+    vertical-align: middle;
+    transition: all 0.3s var(--ease-smooth);
+}
+
+.btn-secondary:hover svg {
+    stroke: white;
+}
+
 /* =========== HERO AVATAR =========== */
 .hero-avatar {
     display: flex;
