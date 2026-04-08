@@ -492,7 +492,7 @@ const projectGalleries = {
         images: [
             'images/inicio.png',
             'images/evento.png',
-            'images/entradas.png',
+            'images/seleccionaentrada.png',
             'images/entradas2.png',
             'images/qr.png',
             'images/mp.png'
