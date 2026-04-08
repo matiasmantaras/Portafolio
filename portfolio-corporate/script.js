@@ -491,7 +491,7 @@ const projectGalleries = {
         subtitle: 'React • Express • PostgreSQL • Mercado Pago',
         images: [
             'images/inicio.png',
-            'images/homeevento.png',
+            'images/evento.png',
             'images/entradas.png',
             'images/entradas2.png',
             'images/qr.png',
